@@ -10,3 +10,4 @@ My name is Andres and I am a student in Colegio San Ignacio de Loyola. I am an a
 * Playing volleybol
 * Seeing television
 
+![Jeter](https://th.bing.com/th/id/R.0932d32fcc5c792bbd5ef50add374b6a?rik=1SnajbsxKVRuqA&pid=ImgRaw&r=0)
