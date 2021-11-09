@@ -9,7 +9,7 @@
 #### El sonido son efectos que tiene el juego para saber que estás haciendo y lo que te esta pasando en los alrededores. Los sonidos en mi juego son cuando corres, brincas disparas, hablas, cuando te montas en un vehiculo y cuando un vehiculo esta corriendo.
 
 ### Gráficos 
-#### Los gráficos son los elementos que los jugadores se fijan para ver si el juego es bueno y divertido y los más importante de todo que todo el mundo lo compre para jugarlo.
+#### Los gráficos son los elementos que los jugadores se fijan para ver si el juego es bueno y divertido y los más importante de todo que todo el mundo lo compre para jugarlo. EL juego es de la segunda guerra mundial, es realistico, los natzis estan ahi, es en 3D y etc.
 
 ## Dificultad
 #### La dificultad es lo que hace el juego divertido si es demasiado dificl o demasiado facil. Es lo que deja el juego ser jugable. Las dificultades en mi juego es que no tengas tanta vida, que las armas no den demasiado dano que el nivel del juego no sea dificil y etc.
@@ -30,4 +30,4 @@
 #### Los objetos son todas las cosas que los personajes interpretan. Los objetos son los carros, donde te tapas de los tiros, los carros, las puertas, las paredes y etc.
 
 ## Personajes
-#### Los personajes lo que hacen es hacer todas las acciones en el juego.
+#### Los personajes lo que hacen es hacer todas las acciones en el juego. Algunos presonajes del juego son Arthur Kingsley, Polina Petrova, Daniel Take Yatsu, Padmavati Balan.
